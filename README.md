@@ -75,7 +75,10 @@ or
 6. **Test**
     * Upload test_data/test_img_2.jpg and verify segmented and matched results.
 
-
-
+## App-Screenshots
+![](docs/demo_2.png)
+![](docs/demo_4.png)
+![](docs/demo_3.png)
+![](docs/demo_1.png)
 ## Contributing
 Feel free to fork, enhance, or report issues.
